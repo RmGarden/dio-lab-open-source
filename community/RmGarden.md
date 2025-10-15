@@ -4,7 +4,7 @@
 **FullStack Developer && Cibersecurity**
 
 ### About me
-I'm a Portuguese 🇵🇹 developer, I have worked in IT support and now I'm starting my development career. I have work in some projects with backend and frontend tasks.
+I'm a Portuguese 🇵🇹 developer, I have worked in IT support and now I'm starting my development career. I have worked in some projects with backend and frontend tasks.
 
 ### Contact me
 |  |  |
